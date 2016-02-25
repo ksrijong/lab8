@@ -1,8 +1,8 @@
 function initCamera() {
   //Uncomment and fill in the correct selectors below.
-  capture($('camera-video'),
-          $('camera-canvas'),
-          $('camera-button'));
+  capture($('#camera-video'),
+          $('#camera-canvas'),
+          $('#camera-button'));
   /*capture($('camera-video'),
           $('camera-canvas'),
           $('camera-button'));*/
